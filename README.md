@@ -1,9 +1,9 @@
 #REPOSITORY COLLABORATION
-A Collaboration Repository consisting of following members:
-Dumdum, Red Colby S.
-De Leon, Johen Ryugakusei D.
-Badiola, Vince Geoffrey P.
-Bernabe, Jyle Matthieu P.
+A Collaboration Repository consisting of following members: <br>
+Dumdum, Red Colby S.<br>
+De Leon, Johen Ryugakusei D.<br>
+Badiola, Vince Geoffrey P.<br>
+Bernabe, Jyle Matthieu P.<br>
 
 
 ## MODULES

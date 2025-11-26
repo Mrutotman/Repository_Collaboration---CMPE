@@ -1,22 +1,13 @@
-<<<<<<< HEAD
-#REPOSITORY COLLABORATION
-A Collaboration Repository consisting of following members: <br>
+
+#A Collaboration Repository consisting of following members: <br>
 Dumdum, Red Colby S.<br>
 De Leon, Johen Ryugakusei D.<br>
 Badiola, Vince Geoffrey P.<br>
 Bernabe, Jyle Matthieu P.<br>
 
 
+
 ## MODULES
-=======
-# I AM SO SIGMA 
-HELLO MY NAME IS RED COLBY S. DUMDUM, I AM SO SIGMA AND THIS IS FOR MY COMPUTER PROGRAMMING COURSE AKA CMPE 012.
-BACHELOR OF SCIENCE IN ELECTRONICS ENGINEERING, PUP STA.MESA
-
-
-## MODULES SO FOR IN MY COURSE
->>>>>>> f06c8b6d808607231d9fb1f90b479d7797826684
-Complete:
 - Introduction, Computer 101, AI & Vibe Coding (09/06/25)
 - Tools & Environments (09/13/25)
 - GitHub (09/27/25)
@@ -37,9 +28,4 @@ Incomplete:
 - Integration & Mini Project  
 
 ## LINKS
-<<<<<<< HEAD
-=======
-
-[My Facebook](https://www.facebook.com/itsmepula08)<br>
->>>>>>> f06c8b6d808607231d9fb1f90b479d7797826684
 [FREE MONEY GLITCH](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

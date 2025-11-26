@@ -1,5 +1,5 @@
 # Collaboration
-##A Collaboration Repository consisting of following members: <br>
+A Collaboration Repository consisting of following members: <br>
 Dumdum, Red Colby S.<br>
 De Leon, Johen Ryugakusei D.<br>
 Badiola, Vince Geoffrey P.<br>
